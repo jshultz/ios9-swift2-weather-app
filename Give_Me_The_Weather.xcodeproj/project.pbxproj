@@ -13,6 +13,7 @@
 		DEA9E68F1BC40A1F0086AAEB /* Give_Me_The_Weather.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = DEA9E68D1BC40A1F0086AAEB /* Give_Me_The_Weather.xcdatamodeld */; };
 		DEA9E6911BC40A1F0086AAEB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DEA9E6901BC40A1F0086AAEB /* Assets.xcassets */; };
 		DEA9E6941BC40A1F0086AAEB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DEA9E6921BC40A1F0086AAEB /* LaunchScreen.storyboard */; };
+		DEA9E69C1BC40A9D0086AAEB /* 6782531-cool-retina-wallpaper.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DEA9E69B1BC40A9D0086AAEB /* 6782531-cool-retina-wallpaper.jpg */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DEA9E6901BC40A1F0086AAEB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DEA9E6931BC40A1F0086AAEB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DEA9E6951BC40A1F0086AAEB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DEA9E69B1BC40A9D0086AAEB /* 6782531-cool-retina-wallpaper.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "6782531-cool-retina-wallpaper.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 			children = (
 				DEA9E6851BC40A1F0086AAEB /* Give_Me_The_Weather */,
 				DEA9E6841BC40A1F0086AAEB /* Products */,
+				DEA9E69B1BC40A9D0086AAEB /* 6782531-cool-retina-wallpaper.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DEA9E6941BC40A1F0086AAEB /* LaunchScreen.storyboard in Resources */,
+				DEA9E69C1BC40A9D0086AAEB /* 6782531-cool-retina-wallpaper.jpg in Resources */,
 				DEA9E6911BC40A1F0086AAEB /* Assets.xcassets in Resources */,
 				DEA9E68C1BC40A1F0086AAEB /* Main.storyboard in Resources */,
 			);
